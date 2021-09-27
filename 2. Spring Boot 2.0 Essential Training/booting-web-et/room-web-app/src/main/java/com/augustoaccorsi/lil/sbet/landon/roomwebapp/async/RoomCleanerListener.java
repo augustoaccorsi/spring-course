@@ -3,7 +3,6 @@ package com.augustoaccorsi.lil.sbet.landon.roomwebapp.async;
 import com.augustoaccorsi.lil.sbet.landon.roomwebapp.models.Room;
 import com.augustoaccorsi.lil.sbet.landon.roomwebapp.service.RoomService;
 import com.fasterxml.jackson.core.JsonProcessingException;
-import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

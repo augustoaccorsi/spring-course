@@ -9,6 +9,7 @@
         <module name="booting-web-et" />
         <module name="room-web-app" />
         <module name="booting-web" />
+        <module name="room-cleaner-notifier" />
         <module name="fizzbuzz" />
         <module name="room-clr" />
       </profile>
@@ -17,6 +18,7 @@
       <module name="booting-web" target="11" />
       <module name="booting-web-et" target="16" />
       <module name="fizzbuzz" target="11" />
+      <module name="room-cleaner-notifier" target="11" />
       <module name="room-clr" target="11" />
       <module name="room-web-app" target="11" />
     </bytecodeTargetLevel>
@@ -25,6 +27,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="booting-web" options="-parameters" />
       <module name="fizzbuzz" options="-parameters" />
+      <module name="room-cleaner-notifier" options="-parameters" />
       <module name="room-clr" options="-parameters" />
       <module name="room-web-app" options="-parameters" />
     </option>

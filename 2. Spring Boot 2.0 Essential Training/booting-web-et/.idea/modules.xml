@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/booting-web/booting-web.iml" filepath="$PROJECT_DIR$/booting-web/booting-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/booting-web-et.iml" filepath="$PROJECT_DIR$/.idea/booting-web-et.iml" />
       <module fileurl="file://$USER_HOME$/Desktop/fizzbuzz/fizzbuzz.iml" filepath="$USER_HOME$/Desktop/fizzbuzz/fizzbuzz.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/room-cleaner-notifier/room-cleaner-notifier.iml" filepath="$USER_HOME$/Desktop/room-cleaner-notifier/room-cleaner-notifier.iml" />
       <module fileurl="file://$USER_HOME$/Desktop/room-clr/room-clr.iml" filepath="$USER_HOME$/Desktop/room-clr/room-clr.iml" />
       <module fileurl="file://$PROJECT_DIR$/room-web-app/room-web-app.iml" filepath="$PROJECT_DIR$/room-web-app/room-web-app.iml" />
     </modules>
