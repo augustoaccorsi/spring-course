@@ -1,4 +1,4 @@
-package config;
+package com.augustoaccorsi.lil.sbet.landon.roomwebapp.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
